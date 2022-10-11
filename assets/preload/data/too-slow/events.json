@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				42666.6666666667,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"neutral-sonic"
+					]
+				]
+			],
+			[
+				45763.4408602151,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic"
+					]
+				]
+			],
+			[
+				93081.0189178311,
+				[
+					[
+						"Play Animation",
+						"dialogue",
+						"sonic"
+					]
+				]
+			],
+			[
+				104052.44748926,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mega-sonic"
+					]
+				]
+			]
+		]
+	}
+}
