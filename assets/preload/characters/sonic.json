@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONIC IDLE"
+		},
+		{
+			"offsets": [
+				130,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONIC LEFT"
+		},
+		{
+			"offsets": [
+				-25,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONIC DOWN"
+		},
+		{
+			"offsets": [
+				110,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONIC UP"
+		},
+		{
+			"offsets": [
+				-63,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONIC RIGHT"
+		},
+		{
+			"offsets": [
+				47,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialogue",
+			"indices": [],
+			"name": "SONIC GODIANO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-70
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "sonic jaja",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONIC_ASSETS",
+	"position": [
+		-100,
+		10
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		20,
+		-190
+	],
+	"sing_duration": 3.2,
+	"scale": 2
+}
